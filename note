@@ -1,0 +1,13 @@
+dotnet new sln -n MySolution
+//sln dosyası oluşturmak icin
+dotnet sln MySolution.sln list
+//projeleri listeleme
+dotnet new webapi -n API
+//web api oluşturmaya yarar
+dotnet new webapi -n MyApi --use-controllers
+//--use-controllers → Minimal API yerine klasik Controller kullanır.
+dotnet new webapi -n MyApi --use-controllers
+//.NET uygulamalarında Entity (varlık) sınıfı, 
+// genellikle veritabanı tablolarını temsil eden C# sınıflarıdır. 
+// Entity Framework Core (EF Core) kullanarak, 
+// bu sınıfları otomatik olarak veritabanı tablolarına dönüştürebiliriz
