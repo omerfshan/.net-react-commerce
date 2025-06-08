@@ -1,0 +1,12 @@
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/bin/Debug/net9.0/Entities.deps.json
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/bin/Debug/net9.0/Entities.dll
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/bin/Debug/net9.0/Entities.pdb
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.AssemblyInfoInputs.cache
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.AssemblyInfo.cs
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.csproj.CoreCompileInputs.cache
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.sourcelink.json
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.dll
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/refint/Entities.dll
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/Entities.pdb
+/Users/omerfaruksahan/projects/net-react-ecommerce/Entities/obj/Debug/net9.0/ref/Entities.dll
