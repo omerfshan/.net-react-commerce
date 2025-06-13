@@ -13,12 +13,17 @@ public class Game : BaseEntity<Guid>
     public DateTime ReleaseDate { get; set; }
 
     public Guid CategoryId {get; set;}
-    public virtual Category? category;
+    public virtual Category? Category { get; set; }
 
     public Game(){}
-    public Game(Guid id,Guid CategoryId,string _name,string Description,string ThumbnailUrl,DateTime _ReleaseDate)
+    public Game(Guid _Id,Guid _CategoryId,string _name,string _Description,string _ThumbnailUrl,DateTime _ReleaseDate)
     {
-        id
+        Id = _Id;
+       CategoryId=_CategoryId;
+       Name=_name;
+       Description=_Description;
+       ThumbnailUrl=_ThumbnailUrl;
+       ReleaseDate=_ReleaseDate;
     }
 
 
